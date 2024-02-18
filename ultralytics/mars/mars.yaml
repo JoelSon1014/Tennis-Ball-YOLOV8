@@ -1,0 +1,6 @@
+train: /Users/daehwanyoo/project/yolov5/mars/train/images
+val: /Users/daehwanyoo/project/yolov5/mars/valid/images
+test: /Users/daehwanyoo/project/yolov5/mars/test/images
+
+nc: 1
+names: ['detect']

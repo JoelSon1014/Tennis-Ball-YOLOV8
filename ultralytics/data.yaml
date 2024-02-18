@@ -1,0 +1,6 @@
+train: /Users/daehwanyoo/project/ultralytics/ultralytics/mars/images/train
+val: /Users/daehwanyoo/project/ultralytics/ultralytics/mars/images/val
+test: /Users/daehwanyoo/project/ultralytics/ultralytics/mars/images/test
+
+nc: 1
+names: ['detect']
