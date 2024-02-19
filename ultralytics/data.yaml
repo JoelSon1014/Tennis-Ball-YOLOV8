@@ -1,6 +1,6 @@
-train: /Users/daehwanyoo/project/ultralytics/ultralytics/mars/images/train
-val: /Users/daehwanyoo/project/ultralytics/ultralytics/mars/images/val
-test: /Users/daehwanyoo/project/ultralytics/ultralytics/mars/images/test
+train: /home/joelyson/claws/Tennis-Ball-YOLOV8/ultralytics/mars/images/train_1
+val: /home/joelyson/claws/Tennis-Ball-YOLOV8/ultralytics/mars/images/val_1
+test: /home/joelyson/claws/Tennis-Ball-YOLOV8/ultralytics/mars/images/test_1
 
 nc: 1
 names: ['detect']
